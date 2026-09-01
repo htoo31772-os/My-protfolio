@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# About Me
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+မင်္ဂလာပါ။ ကျွန်တော်က **Junior Full-stack Developer** တစ်ယောက်ဖြစ်ပြီး Web Application များကို Frontend နှင့် Backend နှစ်ဖက်စလုံးမှ တည်ဆောက်နိုင်ရန် လေ့လာပြီး လက်တွေ့ Project များဖြင့် အတွေ့အကြုံရယူနေသူတစ်ဦး ဖြစ်ပါတယ်။
 
-## Available Scripts
+အဓိကအားဖြင့် **React.js, Laravel, MySQL** တို့ကို အသုံးပြုပြီး Full-stack Web Application များ တည်ဆောက်ထားပါတယ်။ လေ့လာနေစဉ်အတွင်း E-commerce, Booking System, Blog System နှင့် Food Ordering & Vendor Platform ဖြစ်တဲ့ **Cloud Chicken** စသည့် Project များကို ကိုယ်တိုင် အစမှအဆုံး တည်ဆောက်ခဲ့ပါတယ်။
 
-In the project directory, you can run:
+Project များတည်ဆောက်ရာမှာ Feature တွေ အလုပ်လုပ်အောင်ရေးသားခြင်းသာမက Error များကို Debug လုပ်ခြင်း၊ API နှင့် Database များ ချိတ်ဆက်ခြင်း၊ Authentication နှင့် Authorization တည်ဆောက်ခြင်း၊ Component Structure စီစဉ်ခြင်းနှင့် User Experience ပိုမိုကောင်းမွန်အောင် ပြင်ဆင်ခြင်းတို့ကို လက်တွေ့လေ့ကျင့်ခဲ့ပါတယ်။
 
-### `npm start`
+လက်ရှိမှာ ကိုယ်တိုင်ရေးသားခဲ့တဲ့ Project တွေကို ပြန်လည်သုံးသပ်ပြီး **Maintenance, Refactoring, Code Reusability, Separation of Concerns, Error Handling နှင့် Performance** စတဲ့အပိုင်းတွေကို ပိုမိုကောင်းမွန်အောင် ဆက်လက်လေ့လာပြင်ဆင်နေပါတယ်။
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ကျွန်တော်အတွက် Development ဆိုတာ Code ရေးပြီး Feature တစ်ခုအလုပ်လုပ်အောင်လုပ်ခြင်းနဲ့ မပြီးဆုံးဘဲ၊ **ဘာကြောင့် ဒီနည်းလမ်းကို အသုံးပြုရတာလဲ၊ ဘယ်လိုပိုကောင်းအောင်လုပ်နိုင်မလဲ၊ နောက်ပိုင်းမှာ ဘယ်လိုထိန်းသိမ်းနိုင်မလဲ** ဆိုတာတွေကို နားလည်အောင် ဆက်လက်လေ့လာတိုးတက်နေခြင်း ဖြစ်ပါတယ်။
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+လက်ရှိရည်ရွယ်ချက်ကတော့ **Junior Developer အဖြစ် Professional Development Team တစ်ခုထဲမှာ အလုပ်လုပ်ရင်း လက်တွေ့အတွေ့အကြုံများရယူပြီး Software Development Knowledge နှင့် Engineering Skills များကို တဖြည်းဖြည်းတိုးတက်အောင် လုပ်ဆောင်သွားရန်** ဖြစ်ပါတယ်။
