@@ -71,7 +71,7 @@ const Contact = () => {
         {/* Footer Bottom */}
         <div className="mt-5 pt-5 border-top text-center text-md-start">
           <p className="small text-secondary mb-0">
-            © 2026 Designed & Built by <a href="" className='text-primary text-decoration-none'>Maung Maung Htoo</a> | Full-stack Developer
+            © 2026 Designed & Built by <span className='text-primary text-decoration-none'>Maung Maung Htoo</span> | Full-stack Developer
           </p>
         </div>
       </div>
