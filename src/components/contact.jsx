@@ -46,7 +46,7 @@ const Contact = () => {
 
             {/* Telegram Card */}
             <div className="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
-              <a href="https://t.me/yourusername" className="text-decoration-none">
+              <a href="https://t.me/@maungmaunghtoo" className="text-decoration-none">
                 <div className="p-4 bg-white shadow-sm rounded-4 border-bottom border-info border-3 contact-card h-100">
                   <i className='bi bi-telegram h1 text-info'></i>
                   <h6 className="fw-bold text-dark mt-3">Telegram</h6>
@@ -57,7 +57,7 @@ const Contact = () => {
 
             {/* Facebook Card */}
             <div className="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
-              <a href="https://facebook.com/yourprofile" className="text-decoration-none">
+              <a href="https://facebook.com/share/1DtJo7mMBq" className="text-decoration-none">
                 <div className="p-4 bg-white shadow-sm rounded-4 border-bottom border-primary border-3 contact-card h-100">
                   <i className='bi bi-facebook h1 text-primary'></i>
                   <h6 className="fw-bold text-dark mt-3">Facebook</h6>
